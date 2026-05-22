@@ -1,2 +1,2 @@
 # regex-validation
-practicing
+لطفا نوت "پیام برای استاد" را مطالعه فرمایید.
